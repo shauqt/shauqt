@@ -1,4 +1,8 @@
-## Hi there 👋
+## 💫 About Me:
+
+# 🌐 Socials:
+
+
 
 <!--
 **shauqt/shauqt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
